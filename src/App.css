@@ -51,15 +51,18 @@
 }
 }
 
-.App-link {
-  color: #61dafb;
+/* -----------------FOOTER----------------------------- */
+
+.footer {
+  background-color: #6B3CC9;
+  padding: 40px 80px 20px 80px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.text-paragraph {
+  max-width: 414px;
+}
+
+.footer-subhead {
+  font-size: 21px;
+  font-weight: 600;
 }

@@ -107,3 +107,33 @@
   ;
 }
 
+/* ---------------MODAL---------------------- */
+
+.modal {
+  display: none; 
+  position: absolute;
+  z-index: 1;
+  right: 0;
+  top: 77px;
+  width: 250px;
+  height: auto;
+  box-shadow: 5px 5px var(--bg-yellow-gold);
+  background-color: white;
+  color: black;
+  padding: 20px;
+}
+
+/* The Close Button */
+.close {
+  color: black;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: red;
+  text-decoration: none;
+  cursor: pointer;
+}

@@ -87,3 +87,23 @@
   font-size: 21px;
   font-weight: 600;
 }
+
+/* ----------------------------Questions----------------- */
+
+.question-area {
+  max-width: 1224px;
+  background-color: #FAF8FF;
+}
+
+.question-title {
+ font-size: 22px;
+ /* color: #6B3CC9; */
+}
+
+.question-description {
+  font-weight: 400;
+  font-size: 18px;
+  color: #6F6C90;
+  ;
+}
+
